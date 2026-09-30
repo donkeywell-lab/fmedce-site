@@ -213,8 +213,9 @@ footer{padding:2.6rem 0 3.6rem;font-size:.83rem;color:var(--ink-faint);backgroun
 .prose p,.prose li{font-family:Newsreader,Georgia,"Times New Roman",serif;font-size:1.24rem;
   line-height:1.74;color:#C3D2DC}
 .prose p + p{margin-top:1.35rem}
-.prose h2{font-size:1.6rem;font-weight:400;color:var(--ink);margin-top:2.8rem;line-height:1.25}
-.prose h3{font-size:1.22rem;font-weight:400;color:var(--ink);margin-top:2rem}
+.prose h2{font-size:1.75rem;font-weight:400;color:var(--ink);margin-top:3.2rem;line-height:1.2}
+.prose h3{font-size:1.02rem;font-weight:500;color:var(--signal);margin-top:2.2rem;
+  font-family:"IBM Plex Sans",sans-serif;letter-spacing:.02em}
 .prose h2 + p,.prose h3 + p{margin-top:.9rem}
 .prose ul,.prose ol{margin:1.4rem 0 0;padding-left:1.4rem}
 .prose li + li{margin-top:.65rem}
